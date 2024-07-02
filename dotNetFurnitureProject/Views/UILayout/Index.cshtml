@@ -1,0 +1,25 @@
+﻿<!doctype html>
+<html lang="en">
+<!--_UILayoutHeadComponent-->
+@await Component.InvokeAsync("_UILayoutHeadComponent")
+
+
+<body>
+    <!--_UILayoutNavbarComponent-->
+    @await Component.InvokeAsync("_UILayoutNavbarComponent")
+
+    @RenderBody()
+
+    <!--_UILayoutFooterComponent-->
+    @await Component.InvokeAsync("_UILayoutFooterComponent")
+   
+
+
+    <script src="~/furni-1.0.0/js/bootstrap.bundle.min.js"></script>
+    <script src="~/furni-1.0.0/js/tiny-slider.js"></script>
+    <script src="~/furni-1.0.0/js/custom.js"></script>
+</body>
+
+</html>
+
+

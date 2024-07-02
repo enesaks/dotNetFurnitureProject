@@ -1,6 +1,10 @@
-﻿var builder = WebApplication.CreateBuilder(args);
+﻿using dotNetFurnitureProject.DataAccess.Context;
+var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.AddDbContext<FurnitureContext>();
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -21,8 +25,8 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    name: "Default",
+    pattern: "{controller=Default}/{action=Index}/{id?}");
 
 app.Run();
 

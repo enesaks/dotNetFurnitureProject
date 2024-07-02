@@ -1,4 +1,20 @@
 ﻿<Properties StartupConfiguration="{5F123170-6252-42F8-AF07-A7EC92811544}|Default">
-  <MonoDevelop.Ide.ItemProperties.dotNetFurnitureProject FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.dotNetFurnitureProject FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotNetFurnitureProject" expanded="True">
+            <Node name="dotNetFurnitureProject" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

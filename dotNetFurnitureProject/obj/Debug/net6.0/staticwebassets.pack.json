@@ -1,0 +1,665 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/obj/Debug/net6.0/scopedcss/projectbundle/dotNetFurnitureProject.bundle.scp.css",
+      "PackagePath": "staticwebassets/dotNetFurnitureProject.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/README.txt",
+      "PackagePath": "staticwebassets/README.txt"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/about.html",
+      "PackagePath": "staticwebassets/about.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/blog.html",
+      "PackagePath": "staticwebassets/blog.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/cart.html",
+      "PackagePath": "staticwebassets/cart.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/checkout.html",
+      "PackagePath": "staticwebassets/checkout.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/contact.html",
+      "PackagePath": "staticwebassets/contact.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/css/tiny-slider.css",
+      "PackagePath": "staticwebassets/css/tiny-slider.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/README.txt",
+      "PackagePath": "staticwebassets/furni-1.0.0/README.txt"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/about.html",
+      "PackagePath": "staticwebassets/furni-1.0.0/about.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/blog.html",
+      "PackagePath": "staticwebassets/furni-1.0.0/blog.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/cart.html",
+      "PackagePath": "staticwebassets/furni-1.0.0/cart.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/checkout.html",
+      "PackagePath": "staticwebassets/furni-1.0.0/checkout.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/contact.html",
+      "PackagePath": "staticwebassets/furni-1.0.0/contact.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/furni-1.0.0/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/css/style.css",
+      "PackagePath": "staticwebassets/furni-1.0.0/css/style.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/css/tiny-slider.css",
+      "PackagePath": "staticwebassets/furni-1.0.0/css/tiny-slider.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/favicon.png",
+      "PackagePath": "staticwebassets/furni-1.0.0/favicon.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/bag.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/bag.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/bowl-2.png",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/bowl-2.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/bowl-3.png",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/bowl-3.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/cart.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/cart.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/couch.png",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/couch.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/cross.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/cross.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/dots-green.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/dots-green.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/dots-light.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/dots-light.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/dots-yellow.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/dots-yellow.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/envelope-outline.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/envelope-outline.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/img-grid-1.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/img-grid-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/img-grid-2.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/img-grid-2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/img-grid-3.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/img-grid-3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/person-1.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/person-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/person-1.png",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/person-1.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/person_1.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/person_1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/person_2.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/person_2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/person_3.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/person_3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/person_4.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/person_4.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/post-1.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/post-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/post-2.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/post-2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/post-3.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/post-3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/product-1.png",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/product-1.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/product-2.png",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/product-2.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/product-3.png",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/product-3.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/return.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/return.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/sofa.png",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/sofa.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/support.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/support.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/truck.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/truck.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/user.svg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/user.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/images/why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets/furni-1.0.0/images/why-choose-us-img.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/index.html",
+      "PackagePath": "staticwebassets/furni-1.0.0/index.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/furni-1.0.0/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/js/custom.js",
+      "PackagePath": "staticwebassets/furni-1.0.0/js/custom.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/js/tiny-slider.js",
+      "PackagePath": "staticwebassets/furni-1.0.0/js/tiny-slider.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/prepros-6.config",
+      "PackagePath": "staticwebassets/furni-1.0.0/prepros-6.config"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/scss/style.scss",
+      "PackagePath": "staticwebassets/furni-1.0.0/scss/style.scss"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/services.html",
+      "PackagePath": "staticwebassets/furni-1.0.0/services.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/shop.html",
+      "PackagePath": "staticwebassets/furni-1.0.0/shop.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/furni-1.0.0/thankyou.html",
+      "PackagePath": "staticwebassets/furni-1.0.0/thankyou.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/bag.svg",
+      "PackagePath": "staticwebassets/images/bag.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/bowl-2.png",
+      "PackagePath": "staticwebassets/images/bowl-2.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/bowl-3.png",
+      "PackagePath": "staticwebassets/images/bowl-3.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/cart.svg",
+      "PackagePath": "staticwebassets/images/cart.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/couch.png",
+      "PackagePath": "staticwebassets/images/couch.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/cross.svg",
+      "PackagePath": "staticwebassets/images/cross.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/dots-green.svg",
+      "PackagePath": "staticwebassets/images/dots-green.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/dots-light.svg",
+      "PackagePath": "staticwebassets/images/dots-light.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/dots-yellow.svg",
+      "PackagePath": "staticwebassets/images/dots-yellow.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/envelope-outline.svg",
+      "PackagePath": "staticwebassets/images/envelope-outline.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/img-grid-1.jpg",
+      "PackagePath": "staticwebassets/images/img-grid-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/img-grid-2.jpg",
+      "PackagePath": "staticwebassets/images/img-grid-2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/img-grid-3.jpg",
+      "PackagePath": "staticwebassets/images/img-grid-3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/person-1.jpg",
+      "PackagePath": "staticwebassets/images/person-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/person-1.png",
+      "PackagePath": "staticwebassets/images/person-1.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/person_1.jpg",
+      "PackagePath": "staticwebassets/images/person_1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/person_2.jpg",
+      "PackagePath": "staticwebassets/images/person_2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/person_3.jpg",
+      "PackagePath": "staticwebassets/images/person_3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/person_4.jpg",
+      "PackagePath": "staticwebassets/images/person_4.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/post-1.jpg",
+      "PackagePath": "staticwebassets/images/post-1.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/post-2.jpg",
+      "PackagePath": "staticwebassets/images/post-2.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/post-3.jpg",
+      "PackagePath": "staticwebassets/images/post-3.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/product-1.png",
+      "PackagePath": "staticwebassets/images/product-1.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/product-2.png",
+      "PackagePath": "staticwebassets/images/product-2.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/product-3.png",
+      "PackagePath": "staticwebassets/images/product-3.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/return.svg",
+      "PackagePath": "staticwebassets/images/return.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/sofa.png",
+      "PackagePath": "staticwebassets/images/sofa.png"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/support.svg",
+      "PackagePath": "staticwebassets/images/support.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/truck.svg",
+      "PackagePath": "staticwebassets/images/truck.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/user.svg",
+      "PackagePath": "staticwebassets/images/user.svg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/images/why-choose-us-img.jpg",
+      "PackagePath": "staticwebassets/images/why-choose-us-img.jpg"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/js/custom.js",
+      "PackagePath": "staticwebassets/js/custom.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/js/tiny-slider.js",
+      "PackagePath": "staticwebassets/js/tiny-slider.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/prepros-6.config",
+      "PackagePath": "staticwebassets/prepros-6.config"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/scss/style.scss",
+      "PackagePath": "staticwebassets/scss/style.scss"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/services.html",
+      "PackagePath": "staticwebassets/services.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/shop.html",
+      "PackagePath": "staticwebassets/shop.html"
+    },
+    {
+      "Id": "/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/wwwroot/thankyou.html",
+      "PackagePath": "staticwebassets/thankyou.html"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.dotNetFurnitureProject.props",
+      "PackagePath": "build\\dotNetFurnitureProject.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.dotNetFurnitureProject.props",
+      "PackagePath": "buildMultiTargeting\\dotNetFurnitureProject.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.dotNetFurnitureProject.props",
+      "PackagePath": "buildTransitive\\dotNetFurnitureProject.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.dotNetFurnitureProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

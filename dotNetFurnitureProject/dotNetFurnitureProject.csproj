@@ -6,4 +6,49 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Views\UILayout\" />
+    <None Remove="Views\Default\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="ViewComponents\Default-Index\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\_DefaultFeatureComponent\" />
+    <None Remove="ViewComponents\UILayout\" />
+    <None Remove="Views\Shared\Components\_UILayoutNavbarComponent\" />
+    <None Remove="Views\Shared\Components\_UILayoutHeadComponent\" />
+    <None Remove="Views\Shared\Components\_UILayoutFooterComponent\" />
+    <None Remove="Views\Shared\Components\_DefaultProductComponent\" />
+    <None Remove="DataAccess\" />
+    <None Remove="DataAccess\Entities\" />
+    <None Remove="DataAccess\Context\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\UILayout\" />
+    <Folder Include="Views\Default\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="ViewComponents\Default-Index\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\_DefaultFeatureComponent\" />
+    <Folder Include="ViewComponents\UILayout\" />
+    <Folder Include="Views\Shared\Components\_UILayoutNavbarComponent\" />
+    <Folder Include="Views\Shared\Components\_UILayoutHeadComponent\" />
+    <Folder Include="Views\Shared\Components\_UILayoutFooterComponent\" />
+    <Folder Include="Views\Shared\Components\_DefaultProductComponent\" />
+    <Folder Include="DataAccess\" />
+    <Folder Include="DataAccess\Entities\" />
+    <Folder Include="DataAccess\Context\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.31">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.31" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.31">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.29" />
+  </ItemGroup>
 </Project>
