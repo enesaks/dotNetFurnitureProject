@@ -1,46 +1,26 @@
 ﻿<Properties StartupConfiguration="{5F123170-6252-42F8-AF07-A7EC92811544}|Default">
-  <MonoDevelop.Ide.ItemProperties.dotNetFurnitureProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/Components/_DefaultProductComponent/Default.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Views/Default/Index.cshtml" Line="9" Column="1" IsPinned="True" />
-      <File FileName="Views/UILayout/Index.cshtml" Line="15" Column="4" IsPinned="True" />
-      <File FileName="Views/Shared/Components/_DefaultProductComponent/Default.cshtml" Line="22" Column="1" />
-      <File FileName="ViewComponents/Default-Index/_DefaultProductComponent.cs" Line="18" Column="43" />
-      <File FileName="ViewComponents/Default-Index/_DefaultFeatureComponent.cs" Line="1" Column="1" />
+      <File FileName="wwwroot/kaiadmin/index.html" Line="13" Column="26" />
+      <File FileName="Controllers/AdminLayoutController.cs" Line="10" Column="6" />
+      <File FileName="Views/AdminLayout/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="26" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="dotNetFurnitureProject">
-            <Node name="dotNetFurnitureProject" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="DataAccess" expanded="True">
-                <Node name="Context" expanded="True" />
-                <Node name="Entities" expanded="True" />
-              </Node>
-              <Node name="ViewComponents" expanded="True">
-                <Node name="Default-Index" expanded="True" />
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Default" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="Components" expanded="True">
-                    <Node name="_DefaultFeatureComponent" expanded="True" />
-                    <Node name="_DefaultProductComponent" expanded="True" />
-                  </Node>
-                </Node>
-                <Node name="UILayout" expanded="True" />
-              </Node>
-            </Node>
+            <Node name="dotNetFurnitureProject" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.dotNetFurnitureProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
