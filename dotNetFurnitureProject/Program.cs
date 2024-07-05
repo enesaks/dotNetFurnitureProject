@@ -1,8 +1,9 @@
 ﻿using dotNetFurnitureProject.DataAccess.Context;
+using dotNetFurnitureProject.DataAccess.Entities;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
+builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<FurnitureContext>();
 builder.Services.AddDbContext<FurnitureContext>();
 
 builder.Services.AddControllersWithViews();

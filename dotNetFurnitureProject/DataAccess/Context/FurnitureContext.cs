@@ -1,10 +1,11 @@
 ﻿using System;
 using dotNetFurnitureProject.DataAccess.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace dotNetFurnitureProject.DataAccess.Context
 {
-	public class FurnitureContext : DbContext
+	public class FurnitureContext : IdentityDbContext<AppUser,AppRole,int>
 	{
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
