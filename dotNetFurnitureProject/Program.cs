@@ -8,6 +8,11 @@ builder.Services.AddDbContext<FurnitureContext>();
 
 builder.Services.AddControllersWithViews();
 
+builder.Services.ConfigureApplicationCookie(opt =>
+{
+    opt.LoginPath = "/Login/Index";
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -22,7 +27,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
     
 app.MapControllerRoute(

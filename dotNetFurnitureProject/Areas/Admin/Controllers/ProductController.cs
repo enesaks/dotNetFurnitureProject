@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using dotNetFurnitureProject.DataAccess.Context;
 using dotNetFurnitureProject.DataAccess.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 
 // For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -12,6 +13,7 @@ namespace dotNetFurnitureProject.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Route("[area]/[controller]/[action]/{id?}")]
+    [Authorize]
     public class ProductController : Controller
     {
         private readonly FurnitureContext _context;

@@ -35,6 +35,8 @@
     <None Remove="Areas\Admin\Views\Shared\Components\" />
     <None Remove="Areas\Admin\Views\Shared\Components\_AdminSidebarComponent\" />
     <None Remove="Views\Register\" />
+    <None Remove="Views\Login\" />
+    <None Remove="Areas\Admin\Views\Shared\Components\_AdminNavbarComponent\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\UILayout\" />
@@ -65,6 +67,8 @@
     <Folder Include="Areas\Admin\Views\Shared\Components\" />
     <Folder Include="Areas\Admin\Views\Shared\Components\_AdminSidebarComponent\" />
     <Folder Include="Views\Register\" />
+    <Folder Include="Views\Login\" />
+    <Folder Include="Areas\Admin\Views\Shared\Components\_AdminNavbarComponent\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />

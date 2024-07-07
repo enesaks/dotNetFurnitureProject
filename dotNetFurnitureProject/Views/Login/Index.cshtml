@@ -1,0 +1,29 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "/Views/UILayout/Index.cshtml";
+}
+<div class="container mt-5">
+    <h3 class="mb-4">Kullanıcı Giriş Sayfası</h3>
+
+    <form method="post">
+        
+        <div class="mb-3">
+            <label for="UserName" class="form-label">Kullanıcı Adı</label>
+            <input type="text" asp-for="UserName" class="form-control" id="UserName" required />
+            
+        </div>
+        <div class="mb-3">
+            <label for="Password" class="form-label">Şifre</label>
+            <input type="password" asp-for="Password" class="form-control" id="Password" required />
+           
+        </div>
+        <div class="mb-3">
+            <p>@Html.ValidationSummary()</p>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Giriş Yap</button>
+    </form>
+</div>
+
+
