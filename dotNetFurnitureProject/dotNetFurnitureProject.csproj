@@ -37,6 +37,10 @@
     <None Remove="Views\Register\" />
     <None Remove="Views\Login\" />
     <None Remove="Areas\Admin\Views\Shared\Components\_AdminNavbarComponent\" />
+    <None Remove="Views\Shared\Components\_DefaultServiceComponent\" />
+    <None Remove="Views\Shared\Components\_DefaultTestimonialComponent\" />
+    <None Remove="Views\Product\" />
+    <None Remove="Areas\Admin\Views\Testimonial\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\UILayout\" />
@@ -69,6 +73,10 @@
     <Folder Include="Views\Register\" />
     <Folder Include="Views\Login\" />
     <Folder Include="Areas\Admin\Views\Shared\Components\_AdminNavbarComponent\" />
+    <Folder Include="Views\Shared\Components\_DefaultServiceComponent\" />
+    <Folder Include="Views\Shared\Components\_DefaultTestimonialComponent\" />
+    <Folder Include="Views\Product\" />
+    <Folder Include="Areas\Admin\Views\Testimonial\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />
