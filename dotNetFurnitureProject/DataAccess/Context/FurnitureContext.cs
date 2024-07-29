@@ -2,6 +2,7 @@
 using dotNetFurnitureProject.DataAccess.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using dotNetFurnitureProject.Models;
 
 namespace dotNetFurnitureProject.DataAccess.Context
 {
@@ -21,6 +22,7 @@ namespace dotNetFurnitureProject.DataAccess.Context
         public DbSet<Subscriber> Subscribers { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
         public DbSet<UserMessage> UserMessages { get; set; }
+        public DbSet<Journal> Journals { get; set; }
     }
 }
 

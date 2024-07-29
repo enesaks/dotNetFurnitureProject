@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using dotNetFurnitureProject.DataAccess.Context;
@@ -11,9 +12,10 @@ using dotNetFurnitureProject.DataAccess.Context;
 namespace dotNetFurnitureProject.Migrations
 {
     [DbContext(typeof(FurnitureContext))]
-    partial class FurnitureContextModelSnapshot : ModelSnapshot
+    [Migration("20240729155052_mig3")]
+    partial class mig3
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

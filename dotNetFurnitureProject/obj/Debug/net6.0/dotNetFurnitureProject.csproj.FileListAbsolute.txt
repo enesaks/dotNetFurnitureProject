@@ -7,6 +7,9 @@
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/dotNetFurnitureProject.dll
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/dotNetFurnitureProject.pdb
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Humanizer.dll
+/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -15,6 +18,8 @@
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.Identity.Client.dll
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
@@ -68,8 +73,3 @@
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/obj/Debug/net6.0/dotNetFurnitureProject.pdb
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/obj/Debug/net6.0/dotNetFurnitureProject.genruntimeconfig.cache
 /Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/obj/Debug/net6.0/ref/dotNetFurnitureProject.dll
-/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
-/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
-/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
-/Users/enes/Documents/GitHub/dotNetFurnitureProject/dotNetFurnitureProject/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll

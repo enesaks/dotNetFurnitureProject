@@ -4,26 +4,40 @@
     Layout = "/Views/UILayout/Index.cshtml";
 }
 <div class="container mt-5">
-    <h3 class="mb-4">Kullanıcı Giriş Sayfası</h3>
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title mb-4 text-center">Kullanıcı Giriş Sayfası</h3>
 
-    <form method="post">
-        
-        <div class="mb-3">
-            <label for="UserName" class="form-label">Kullanıcı Adı</label>
-            <input type="text" asp-for="UserName" class="form-control" id="UserName" required />
-            
-        </div>
-        <div class="mb-3">
-            <label for="Password" class="form-label">Şifre</label>
-            <input type="password" asp-for="Password" class="form-control" id="Password" required />
-           
-        </div>
-        <div class="mb-3">
-            <p>@Html.ValidationSummary()</p>
-        </div>
+                    <form method="post">
 
-        <button type="submit" class="btn btn-primary">Giriş Yap</button>
-    </form>
+                        <div class="mb-3">
+                            <label for="UserName" class="form-label">Kullanıcı Adı</label>
+                            <input type="text" asp-for="UserName" class="form-control" id="UserName" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="Password" class="form-label">Şifre</label>
+                            <input type="password" asp-for="Password" class="form-control" id="Password" required />
+                        </div>
+
+                        <div class="mb-3">
+                            <div class="text-danger">
+                                @Html.ValidationSummary()
+                            </div>
+                        </div>
+
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary">Giriş Yap</button>
+                        </div>
+                    </form>
+
+                    <div class="mt-3 text-center">
+                        <a href="/Register/Signup" class="btn btn-secondary">Üye Ol</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-
-

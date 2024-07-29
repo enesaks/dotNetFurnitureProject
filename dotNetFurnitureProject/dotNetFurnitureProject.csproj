@@ -41,6 +41,8 @@
     <None Remove="Views\Shared\Components\_DefaultTestimonialComponent\" />
     <None Remove="Views\Product\" />
     <None Remove="Areas\Admin\Views\Testimonial\" />
+    <None Remove="Views\Shared\Components\_DefaultPopularProductComponent\" />
+    <None Remove="Views\Contact\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\UILayout\" />
@@ -77,6 +79,8 @@
     <Folder Include="Views\Shared\Components\_DefaultTestimonialComponent\" />
     <Folder Include="Views\Product\" />
     <Folder Include="Areas\Admin\Views\Testimonial\" />
+    <Folder Include="Views\Shared\Components\_DefaultPopularProductComponent\" />
+    <Folder Include="Views\Contact\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />

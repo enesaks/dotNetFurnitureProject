@@ -37,7 +37,7 @@ namespace dotNetFurnitureProject.Controllers
             var result = await _userManager.CreateAsync(user, model.Passaword);
             if (result.Succeeded)
             {
-                return RedirectToAction("Index", "Default");
+                return RedirectToAction("Index", "Login");
             }
             foreach (var item in result.Errors)
             {

@@ -4,35 +4,47 @@
     Layout = "/Views/UILayout/Index.cshtml";
 }
 <div class="container mt-5">
-    <h3 class="mb-4">Yeni Kullanıcı Kaydı</h3>
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h3 class="card-title mb-4 text-center">Yeni Kullanıcı Kaydı</h3>
 
-    <form method="post">
-        <div class="mb-3">
-            <label for="NameSurname" class="form-label">Ad Soyad</label>
-            <input type="text" asp-for="NameSurname" class="form-control" id="NameSurname" required />
-            <span asp-validation-for="NameSurname" class="text-danger"></span>
+                    <form method="post">
+                        <div class="mb-3">
+                            <label for="NameSurname" class="form-label">Ad Soyad</label>
+                            <input type="text" asp-for="NameSurname" class="form-control" id="NameSurname" required />
+                            <span asp-validation-for="NameSurname" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label for="UserName" class="form-label">Kullanıcı Adı</label>
+                            <input type="text" asp-for="UserName" class="form-control" id="UserName" required />
+                            <span asp-validation-for="UserName" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label for="Email" class="form-label">Email</label>
+                            <input type="email" asp-for="Email" class="form-control" id="Email" required />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="mb-3">
+                            <label for="Password" class="form-label">Şifre</label>
+                            <input type="password" asp-for="Passaword" class="form-control" id="Password" required />
+                            <span asp-validation-for="Passaword" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="mb-3 text-danger">
+                            @Html.ValidationSummary()
+                        </div>
+                        
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-primary">Kayıt Ol</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
         </div>
-        <div class="mb-3">
-            <label for="UserName" class="form-label">Kullanıcı Adı</label>
-            <input type="text" asp-for="UserName" class="form-control" id="UserName" required />
-            <span asp-validation-for="UserName" class="text-danger"></span>
-        </div>
-        <div class="mb-3">
-            <label for="Email" class="form-label">Email</label>
-            <input type="email" asp-for="Email" class="form-control" id="Email" required />
-            <span asp-validation-for="Email" class="text-danger"></span>
-        </div>
-        <div class="mb-3">
-            <label for="Password" class="form-label">Şifre</label>
-            <input type="password" asp-for="Passaword" class="form-control" id="Password" required />
-            <span asp-validation-for="Passaword" class="text-danger"></span>
-        </div>
-        <div class="mb-3">
-            <p>@Html.ValidationSummary()</p>
-        </div>
-
-        <button type="submit" class="btn btn-primary">Kayıt Ol</button>
-    </form>
+    </div>
 </div>
-
-

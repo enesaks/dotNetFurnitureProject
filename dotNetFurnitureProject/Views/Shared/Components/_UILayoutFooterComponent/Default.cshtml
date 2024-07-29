@@ -1,4 +1,5 @@
-﻿ <!-- Start Footer Section -->
+﻿@model Journal
+<!-- Start Footer Section -->
 <footer class="footer-section">
     <div class="container relative">
 
@@ -11,15 +12,15 @@
                 <div class="subscription-form">
                     <h3 class="d-flex align-items-center"><span class="me-1"><img src="~/furni-1.0.0/images/envelope-outline.svg" alt="Image" class="img-fluid"></span><span>Subscribe to Newsletter</span></h3>
 
-                    <form action="#" class="row g-3">
+                    <form asp-action="Create" asp-controller="Journal" method="post" class="row g-3">
                         <div class="col-auto">
-                            <input type="text" class="form-control" placeholder="İmsinizi Giriniz">
+                            <input type="text" asp-for="Name" class="form-control" placeholder="İsminizi Giriniz">
                         </div>
                         <div class="col-auto">
-                            <input type="email" class="form-control" placeholder="Mailinizi Giriniz">
+                            <input type="email" asp-for="Email" class="form-control" placeholder="Mailinizi Giriniz">
                         </div>
                         <div class="col-auto">
-                            <button class="btn btn-primary">
+                            <button type="submit"  class="btn btn-primary">
                                 <span class="fa fa-paper-plane"></span>
                             </button>
                         </div>
@@ -103,3 +104,4 @@
     </div>
 </footer>
 <!-- End Footer Section -->
+

@@ -1,0 +1,60 @@
+﻿@model UserMessage
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/UILayout/Index.cshtml";
+}
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+<div class="untree_co-section">
+    <div class="container">
+
+        <div class="block">
+            <div class="row justify-content-center">
+
+
+                <div class="col-md-8 col-lg-8 pb-4">
+
+                    <form asp-action="Index" asp-controller="Contact" method="post">
+                        <input type="hidden" class="form-control" asp-for="UserMessageId"/>
+                        <div class="form-group">
+                            <label class="text-black" for="email">İssim</label>
+                            <input type="text" class="form-control" asp-for="Name" required>
+                        </div>
+                        <div class="form-group">
+                            <label class="text-black" for="email">Email address</label>
+                            <input type="email" class="form-control" asp-for="Email" required>
+                        </div>
+
+                        <div class="form-group mb-5">
+                            <label class="text-black" for="message">Message</label>
+                            <textarea name="" class="form-control" asp-for="MessageContent"required cols="30" rows="5"></textarea>
+                        </div>
+
+                        <button type="submit" onclick="Message()" class="btn btn-primary-hover-outline">Mesaj Gönder</button>
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+</div>
+
+<script>
+    function Message() {
+        Swal.fire({
+            title: 'Mesajınız Gönderildi',
+            text: 'Teşekkürler!',
+            icon: 'success',
+            confirmButtonText: 'Tamam'
+        }).then((result) => {
+            if (result.isConfirmed) {
+                document.getElementById('messageForm').submit();
+            }
+        });
+    }
+</script>
