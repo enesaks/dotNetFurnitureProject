@@ -43,6 +43,10 @@
     <None Remove="Areas\Admin\Views\Testimonial\" />
     <None Remove="Views\Shared\Components\_DefaultPopularProductComponent\" />
     <None Remove="Views\Contact\" />
+    <None Remove="Areas\Admin\Views\Feature\" />
+    <None Remove="Areas\Admin\Views\Services\" />
+    <None Remove="Areas\Admin\Views\Journal\" />
+    <None Remove="Areas\Admin\Views\Messages\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\UILayout\" />
@@ -81,6 +85,10 @@
     <Folder Include="Areas\Admin\Views\Testimonial\" />
     <Folder Include="Views\Shared\Components\_DefaultPopularProductComponent\" />
     <Folder Include="Views\Contact\" />
+    <Folder Include="Areas\Admin\Views\Feature\" />
+    <Folder Include="Areas\Admin\Views\Services\" />
+    <Folder Include="Areas\Admin\Views\Journal\" />
+    <Folder Include="Areas\Admin\Views\Messages\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />

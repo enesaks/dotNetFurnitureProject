@@ -1,0 +1,21 @@
+﻿@model Feature
+@{
+    ViewData["Title"] = "Yeni Öne Çıkan Oluştur";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<form method="post">
+    <input type="hidden" asp-for="FeatureId" class="form-control" />
+    <label>Başlık</label>
+    <input type="text" asp-for="Title" class="form-control" />
+    <br />
+    <label>Açıklama</label>
+    <input type="text" asp-for="Description" class="form-control" />
+    <br />
+  
+    <label>Ressim URL</label>
+    <input type="text" asp-for="ImageUrl" class="form-control" />
+    <br />
+
+    <button class="btn btn-outline-primary">Oluştur</button>
+</form>
